@@ -1,0 +1,67 @@
+Commit 7b9f1e by CuriousCoder (Parent: None)
+Initial Commit - Blank Slate
+Starting this journey! A blank slate, ready to be filled with code wonders.
+
+Commit a3d8e7 by BeginnerBella (Parent: 7b9f1e)
+Added Variables and Constants
+Added variables and constants, feeling like a digital mathematician!
+
+Commit 4f2a1d by CodemasterCarl (Parent: a3d8e7)
+Review - Added type annotations
+Hey team! Reviewed and added type annotations for better readability.
+
+Commit e6c5b2 by CuriousCoder (Parent: 4f2a1d)
+Merge branch 'master' into feature-functions
+Merging type annotations. Ready to dive into functions!
+
+Commit 1d9g4z by FunctionFiona (Parent: e6c5b2)
+Created Function to Calculate Fibonacci Series
+Learning recursion with Fibonacci. Each number in this series feels like a mystery unlocked!
+
+Commit 8h5k2y by LogicLiam (Parent: 1d9g4z)
+Added Conditional Statements
+Introducing logic gates into our code world! "If this, then that," the logic unfolds.
+
+Commit m3n5p8 by FunctionFiona (Parent: 8h5k2y)
+Refactor - Optimized Fibonacci function
+Reduced recursive calls. The Fibonacci function now runs faster than ever!
+
+Commit j7i2k9 by DebuggingDave (Parent: m3n5p8)
+Fix Bug - Resolved Infinite Loop
+Caught a bug in Fiona's function. The Fibonacci sequence was trying to reach infinity!
+
+Commit o1z6x9 by FunctionFiona (Parent: j7i2k9)
+Merge branch 'refactor' into master
+Merging bug fixes. Cheers, Dave, for catching that bug!
+
+Commit r5t2v7 by ObjectOscar (Parent: o1z6x9)
+Added Classes for Virtual Zoo
+Welcome to the virtual zoo! Classes for animals created - lions, tigers, and bears, oh my!
+
+Commit s9l4p0 by InterfaceIsla (Parent: r5t2v7)
+Created Interface for Virtual Zoo
+Building an interface for users to interact with our virtual zoo. Let the fun begin!
+
+Commit u8y3w1 by DebuggingDave (Parent: s9l4p0)
+Fix Bug - Resolved Lion Roar Error
+Lions were roaring endlessly! Fixed the issue, they're back to their scheduled roars now!
+
+Commit x0p3q7 by CodemasterCarl (Parent: u8y3w1)
+Code Review - Optimized Zoo Interface
+Reviewed and optimized Isla's interface. The zoo experience just got smoother!
+
+Commit k4n6t8 by ObjectOscar (Parent: x0p3q7)
+Merge branch 'interface' into master
+Merging the optimized interface. Our virtual zoo is shaping up beautifully.
+
+Commit p9r2t4 by CuriousCoder (Parent: k4n6t8)
+Documentation Update - Coding Journey Summary
+Summarized our journey in the README. What a ride! Excited for what's next.
+
+Commit t7u9w2 by BeginnerBella (Parent: p9r2t4)
+Merge branch 'master' into final-touches
+Merging the journey summary. Ready for the final touches, everyone!
+
+Commit z2x4c6 by TeamLeadTom (Parent: t7u9w2)
+Final Commit - Project Completion
+Wrapping up! Final touches added, ready to present our coding adventure. Great teamwork, team!
